@@ -24,6 +24,7 @@ pub mod custgeom;
 pub mod diagram;
 pub mod numfmt;
 pub mod preset;
+mod preset_text;
 pub mod style;
 pub mod table;
 pub mod text;
